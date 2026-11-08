@@ -92,19 +92,17 @@ export function HeroSection() {
           >
             <p className="mb-3 font-mono text-xs sm:text-sm uppercase tracking-[0.2em] text-emerald-600 dark:text-emerald-400 font-semibold flex items-center gap-2">
               <Terminal className="h-4 w-4" />
-              <span>
-                {PROFILE.name} — {PROFILE.role}
-              </span>
+              <span>&gt;_ ZEHNA — FULL-STACK ENGINEER &amp; CREATIVE TECHNOLOGIST</span>
             </p>
 
             <h1 className="text-4xl sm:text-5xl md:text-6xl lg:text-[4.15rem] font-bold tracking-tight text-zinc-950 dark:text-zinc-50 leading-[1.08]">
-              Merekayasa{" "}
+              Building{" "}
               <span className="bg-gradient-to-r from-emerald-500 via-cyan-400 to-violet-500 bg-clip-text text-transparent">
-                Sistem Otomasi
+                High-Performance Systems
               </span>
-              , Antarmuka Interaktif &amp;{" "}
+              , Interactive Web &amp;{" "}
               <span className="underline decoration-emerald-500/40 decoration-wavy decoration-2 underline-offset-8">
-                Simulasi Real-Time
+                Real-Time Simulations
               </span>
               .
             </h1>
